@@ -1,5 +1,6 @@
-### Hi there 👋
+### Hey! I'm Umair👋
 
+I am a computer science student and a software engineer based in Pakistan. I like to work on the projects that make a change for the better.
 <!--
 **UmairMirza1/UmairMirza1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
