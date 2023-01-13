@@ -16,7 +16,7 @@ I am a Computer Science student and a Software Engineer based in Pakistan. My go
 
 ## Currently ..
 
-- 🕰 Researching use of Deep Learning Algorithms for Grouped Facial recognition and developing an Android Application to create MVP for detecting people present in a certain time & place withing 5-10 seconds 
+- 🕰 Researching use of Deep Learning Algorithms for Grouped Facial recognition and developing an Android Application to create MVP for detecting people present in a certain time & place within 5-10 seconds 
 - 📚 National University of Computer and Emerging Sciences (Bachelors in Computer Science) 
 
 
