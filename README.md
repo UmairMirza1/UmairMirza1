@@ -1,6 +1,6 @@
 ### Hey! I'm Umair Mirza👋
 
-I am a Computer Science student and a Software Engineer based in Pakistan. My goal is to create technology that makes a positive impact on the world. I have experience in building Web2.0 & Web3.0 Applications, as well as developing mobile applications. However, I have profound interest in cryptography and the role it plays in securing the internet we know.I am continuously working on projects that make a change for the better.
+I am a Computer Science student and a Software Engineer based in Pakistan. My goal is to create technology that makes a positive impact on the world. I have experience in building Web2.0 & Web3.0 Applications, as well as developing mobile applications. However, I have profound interest in cryptography and the role it plays in securing the internet we know. I am continuously working on projects that make a change for the better.
 
 
 
