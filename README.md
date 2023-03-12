@@ -12,7 +12,7 @@ I am a Computer Science student and a Software Engineer based in Pakistan. My go
 - ⚡ ASP.Net
 - ⚡ AI/ML development
 - ⚡ OpenMP & MPI for Parallel & Distributed Computing 
-- ⚡ Application with Flat-File Database System Optimized through Design Paterns
+- ⚡ Application with Flat-File Database System Optimized through Design Patterns
 
 ## Currently ..
 
