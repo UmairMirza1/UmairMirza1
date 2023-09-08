@@ -6,6 +6,8 @@ I am a Computer Science student and a Software Engineer based in Pakistan. My go
 
 
 ## 💻 Technologies I have worked on
+- ⚡ Web GIS applications using MapboxGL_JS
+- ⚡ MEAN stack 
 - ⚡ NestJS/TypeORM
 - ⚡ Blockchain development with Truffle & Hardhat
 - ⚡ MERN with Redux (React with TypeScript)
