@@ -1,14 +1,14 @@
 ### Hey! I'm Umair Mirza👋
 
 
-I am a Computer Science student and a Software Engineer based in Pakistan. My goal is to create technology that makes a positive impact on the world. I have experience in building Web2.0 & Web3.0 Applications,as well as developing mobile applications in native android. However, I have profound interest in cryptography and the role it plays in securing the internet we know. I am continuously working on projects that make a change for the better.
+I am a Software Engineer based in Pakistan. My goal is to create technology that makes a positive impact on the world. I have experience in building Web 2.0 & Web 3.0 Applications, as well as developing mobile applications in native Android. However, I have a profound interest in cryptography and the role it plays in securing the internet we know. I am continuously working on projects that make a change for the better.
 
 
 
 ## 💻 Technologies I have worked on
 - ⚡ Web GIS applications using MapboxGL_JS
 - ⚡ MEAN stack 
-- ⚡ NestJS/TypeORM
+- ⚡ NestJS
 - ⚡ Blockchain development with Truffle & Hardhat
 - ⚡ MERN with Redux (React with TypeScript)
 - ⚡ Native Android Development with Java & Kotlin
@@ -19,8 +19,7 @@ I am a Computer Science student and a Software Engineer based in Pakistan. My go
 
 ## Currently ..
 
-- 🕰 Researching use of Deep Learning Algorithms for Grouped Facial recognition and developing an Android Application to create MVP for detecting people present in a certain time & place within 5-10 seconds 
-
+- 🕰 Working at an AgriTech startup building Web-GIS Application
 - 📚 National University of Computer and Emerging Sciences (Bachelors in Computer Science) 
 
 
