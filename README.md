@@ -12,7 +12,6 @@ I am a Software Engineer based in Pakistan. My goal is to create technology that
 - ⚡ Blockchain development with Truffle & Hardhat
 - ⚡ MERN with Redux (React with TypeScript)
 - ⚡ Native Android Development with Java & Kotlin
-- ⚡ ASP.Net
 - ⚡ AI/ML development
 - ⚡ OpenMP & MPI for Parallel & Distributed Computing 
 - ⚡ Application with Flat-File Database System Optimized through Design Patterns
