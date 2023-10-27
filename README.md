@@ -6,11 +6,11 @@ I am a Software Engineer based in Pakistan. My goal is to create technology that
 
 
 ## 💻 Technologies I have worked on
-- ⚡ Web GIS applications using MapboxGL_JS
+- ⚡ Web GIS applications using MapboxGL JS
 - ⚡ MEAN stack 
 - ⚡ NestJS
 - ⚡ Blockchain development with Truffle & Hardhat
-- ⚡ MERN with Redux (React with TypeScript)
+- ⚡ MERN with Redux (React with TypeScript). Have also worked with Kepler which is also a Mapbox based Library
 - ⚡ Native Android Development with Java & Kotlin
 - ⚡ AI/ML development
 - ⚡ OpenMP & MPI for Parallel & Distributed Computing 
