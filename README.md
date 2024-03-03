@@ -9,11 +9,12 @@ Currently learning how to scale a data-intensive GIS application along with Infr
 - ⚡ Web-GIS applications using MapboxGL JS/Kepler/Leaflet
 - ⚡ Frontend: Angular/React
 - ⚡ Backend: NestJs/Django/Golang/Node+Express
-- ⚡ Blockchain development with Truffle & Hardhat
+- ⚡ Kubernetes- Minikube/EKS
 - ⚡ AWS services such as ECR,EC2,S3,Lambda functions(Go),RDS
 - ⚡ Native Android Development with Java & Kotlin
 - ⚡ AI/ML development
 - ⚡ OpenMP & MPI for Parallel & Distributed Computing 
+- ⚡ Blockchain development with Truffle & Hardhat
 - ⚡ Developed a programming language written in C++ for my native language (Urdu)
 
   
