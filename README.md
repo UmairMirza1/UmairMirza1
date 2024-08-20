@@ -20,7 +20,7 @@ Currently learning how to scale a data-intensive GIS application along with Infr
   
 ## Currently ..
 
-- 🕰 Working at an AgriTech startup building Web-GIS Application - Farmdar
+- 🕰 Working at an AgriTech startup building Web-GIS Application - Farmdar -> app.farmdar.ai
 - 📚 FAST- National University of Computer and Emerging Sciences (Bachelors in Computer Science) 
 
 
