@@ -1,7 +1,7 @@
 ### Hey! I'm Umair Mirza👋
 
 
-I am a Software Engineer based in Pakistan. My primary professional experience has been developing GIS applications. My goal is to create technology that makes a positive impact on the world. I have experience in building Web 2.0 & Web 3.0 Applications, as well as developing mobile applications in native Android. However, I have a profound interest in cryptography and the role it plays in securing the internet we know. I am continuously working on projects that make a change for the better.
+I am an experienced Software Engineer based in Pakistan. My primary professional experience has been developing Web-GIS applications and data pipelines. My goal is to create technology that makes a positive impact on the world. I have experience in building Web 2.0 & Web 3.0 Applications, as well as developing mobile applications in native Android. However, I have a profound interest in cryptography and the role it plays in securing the internet we know. I am continuously working on projects that make a change for the better.
 Currently learning how to scale a data-intensive GIS application along with Infra that can scale as per load with tools such as Kubernetes
 
 
