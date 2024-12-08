@@ -29,6 +29,8 @@ Currently leading development at Farmdar as Lead Software Engineer, where I:
 
 ### Specialized Skills
 - ⚡ AI/ML Development
+- ⚡ Scalable webGIS application
+- ⚡ GIS/RS data pipelines
 - ⚡ Parallel & Distributed Computing (OpenMP & MPI)
 - ⚡ Blockchain Development (Truffle & Hardhat)
 - ⚡ Language Design (Created Urdu Programming Language in C++)
